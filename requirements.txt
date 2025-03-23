@@ -1,0 +1,12 @@
+langchain
+faiss-cpu
+sentence-transformers
+openai
+transformers
+torch
+tqdm
+pymupdf
+requests
+python-dotenv
+langchain-community
+langchain-openai
