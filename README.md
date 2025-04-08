@@ -1,4 +1,4 @@
-# 📄 Academic Paper Summarizer & Q&A using RAG
+# 📄 Academic Paper Finder & Q&A using RAG
 
 A Retrieval-Augmented Generation (RAG) system that allows users to search for recent academic papers from **arXiv**, 
 download the PDF, embed the text using **Sentence Transformers**,
